@@ -1805,8 +1805,11 @@ body {
 .sp_main_container .s_map {
   height: 596px;
   max-width: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+}
+
+.sp_main_container .s_map iframe {
+  width: 100%;
+  height: 596px;
 }
 
 @media (min-width: 1500px) {
