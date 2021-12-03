@@ -1632,6 +1632,11 @@ body {
   margin: 24px 0px 48px 0px;
 }
 
+.sp_main_container .sp_content_container .sp_content_container_left h6 a {
+  color: #9F9BA9;
+  cursor: pointer;
+}
+
 .sp_main_container .sp_content_container .sp_content_container_left h6 span1 {
   margin-left: 10px;
 }
