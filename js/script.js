@@ -2416,7 +2416,7 @@ sr.reveal('.slider', {origin: 'top'})
 sr.reveal('.second__container_products_container', {origin: 'top'})
 sr.reveal('.second__container_services_container', {origin: 'top'})
 sr.reveal('.fourth__container_indent', {origin: 'top'})
-sr.reveal('.sp_content_container', {origin: 'top'})
+sr.reveal('.sp_content_container_left p,h2,p1', {origin: 'top'})
 sr.reveal('.sp_content_container_right', {origin: 'top'})
 
 /*---------------------OWL CAROUSEL SECOND BLOCK---------------------*/
